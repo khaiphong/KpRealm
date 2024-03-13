@@ -1,2 +1,3 @@
 # kp_realm
-Realm to promote "Core Values of Honesty &amp; Care".
+
+Verifiable Realm to promote "<b>Core Values of Honesty &amp; Care</b>".
